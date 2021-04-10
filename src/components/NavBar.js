@@ -256,9 +256,6 @@ const NavBar = () => {
         className = {classes.drawer}
         classes = {{ paper: classes.drawerPaper }}
       >
-          
-
-
           <List>
               <ListItem>
                 <Avatar className={classes.avatar} />
